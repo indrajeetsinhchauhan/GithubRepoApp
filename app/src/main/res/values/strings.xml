@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GithubRepoApp</string>
+    <string name="repository_name">Repository Name</string>
+    <string name="repository_description_hint">Repository description goes here</string>
+    <string name="language_hint">Kotlin</string>
+    <string name="language_stars_hint">120 | Kotlin</string>
+    <string name="avatar_description">Avatar</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full Name</string>
+    <string name="followers_hint">Followers: 123</string>
+    <string name="repositories">Repositories</string>
+    <string name="repo_star_language_placeholder">%1$d | %2$s</string>
+</resources>
